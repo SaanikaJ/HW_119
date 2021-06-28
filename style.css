@@ -1,0 +1,48 @@
+.heading{
+    font-size:23px;
+    font-family:'Times New Roman', Times, serif;
+    width:100%; 
+    margin:0px; 
+    box-shadow:5px 5px 5px grey;
+} 
+
+.heading_div{
+    float:none; 
+    background-color:aliceblue; 
+    padding:10px; 
+    border-radius:20px;
+    color:black; 
+    box-shadow:5px 5px 5px grey;
+    font-family:'Times New Roman', Times, serif; 
+}
+
+.heading_div_2{
+    font-size:18px; 
+    font-family:'Times New Roman', Times, serif; 
+}
+
+.result_para_tag{
+    box-shadow:5px 5px 5px grey; 
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif; 
+}
+
+.copy_right_footer{
+    position:fixed; 
+    color:white; 
+    bottom:0; 
+    width:100%;
+    background-color:grey; 
+    line-height:3; 
+    text-align:center;
+    font-family:'Times New Roman', Times, serif; 
+    font-size:20px;
+}
+
+canvas{
+    border:5px solid yellowgreen; 
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-top:135px; 
+    margin-bottom:50px;
+}
